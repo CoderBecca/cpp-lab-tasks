@@ -1,2 +1,2 @@
-# hello-world-cpp
-My very first C++ program - learning 'Hello World' as a beginner programmer!
+# C++ Lab Tasks
+This repository contains my C++ lab practice codes, basic exercises, and assignment solutions.
